@@ -1,0 +1,9 @@
+fastapi
+fastmcp
+uvicorn
+screeninfo
+pyautogui
+pillow
+pydantic
+pydantic-settings
+pydantic-core
